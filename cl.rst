@@ -4,6 +4,7 @@ Resources on Computational Linguistics
 - A recent overview of the field: Advances in natural language
   processing, Hirschberg and Manning,
   http://www.sciencemag.org/content/349/6245/261.short
+  (Alternative download: http://medialab.sjtu.edu.cn/maas-blog/wp-content/uploads/2015/07/Science-2015-Hirschberg-261-6.pdf)
 
 - Textbooks (both quite dated!)
 
