@@ -1,6 +1,8 @@
 Thesis guidelines
 =================
 
+- See http://grzegorz.chrupala.me/#section5 for some examples of good
+  MSc theses.
 - Consider learning and using the Latex typesetting system to prepare your thesis.
 - The thesis length should be around 15000 words.
 - A thesis typically has structure similar to this:
@@ -46,3 +48,4 @@ Thesis guidelines
 - Do not reuse any figures or other images without a proper license or
   a permission of the author of the original. In all cases credit
   images to the the author. 
+
