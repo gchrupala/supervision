@@ -18,8 +18,8 @@ Thesis guidelines
   - Data and Experiments - describe how you obtained or collected your
     data and provide summary statistics. Describe your experimental
     setup (data preprocessing, model choice/parameters etc).  
-  - Results - specify the settings of the final model. Report the
-    quantitative results you obtained on the final test set. 
+  - Results - Report the quantitative results you obtained on the final 
+    test set with your best model. 
   - Discussion - interpret the results and include error analysis or
     other qualitative analysis (with examples). Discuss relation to
     other research 
