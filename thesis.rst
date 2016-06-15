@@ -7,23 +7,23 @@ Thesis guidelines
 - The thesis length should be around 15000 words.
 - A thesis typically has structure similar to this:
 
-  - Introduction - explain briefly what your research questions are,
+  - **Introduction** - explain briefly what your research questions are,
     why they are important, how you approached them and what your
     findings were 
-  - Background - explain the larger scientific context of the problem:
+  - **Background** - explain the larger scientific context of the problem:
     what is the theory behind it if any, and what previous research
     has been done related to it. Flesh out research questions 
-  - Methods - describe your approach, for example which mathematical
+  - **Methods** - describe your approach, for example which mathematical
     models or computational algorithms you used 
-  - Data and Experiments - describe how you obtained or collected your
+  - **Data and Experiments** - describe how you obtained or collected your
     data and provide summary statistics. Describe your experimental
     setup (data preprocessing, model choice/parameters etc).  
-  - Results - Report the quantitative results you obtained on the final 
+  - **Results** - Report the quantitative results you obtained on the final 
     test set with your best model. 
-  - Discussion - interpret the results and include error analysis or
+  - **Discussion** - interpret the results and include error analysis or
     other qualitative analysis (with examples). Discuss relation to
     other research 
-  - Conclusion - summarize main findings and indicate future
+  - **Conclusion** - summarize main findings and indicate future
     directions of research 
 
 - This typical structure can be reordered and modified if appropriate
