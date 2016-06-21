@@ -6,8 +6,8 @@ IMPORTANT requirement for a machine learning project.
 There are two common ways of designing a learning experiment. They both
 are based on having a separate test set.
 
-Setup 1
--------
+Setup 1 (with validation set)
+-----------------------------
 
 You take a sample of your data (typically around 20%) as a test
 set. You set this data aside and do not do anything with it until the
@@ -32,8 +32,8 @@ work (M1), and your own improved model (M2).
 At point, you test each of the three models on the *test set*, and
 report the results.
 
-Setup 2
--------
+Setup 2 (with cross-validation)
+-------------------------------
 
 This is also a common setup, and is similar to Setup 1. You reserve a
 separate test set for the final stages of the project. 
