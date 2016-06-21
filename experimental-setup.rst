@@ -1,7 +1,9 @@
+Experimental Setup
+==================
+
 Proper experimental setup is THE MOST
 IMPORTANT requirement for a machine learning project.
-
-There are two common ways of designing learning experiment. They both
+There are two common ways of designing a learning experiment. They both
 are based on having a separate test set.
 
 Setup 1
