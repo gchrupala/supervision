@@ -48,4 +48,7 @@ Thesis guidelines
 - Do not reuse any figures or other images without a proper license or
   a permission of the author of the original. In all cases credit
   images to the the author. 
+- Make sure to use English number formatting: decimal POINT, and comma as thousand separator (i.e. 1.2 and 10,000)
+- Whenever you include a formula, explain the meaning of the symbols used
+
 
