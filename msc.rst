@@ -1,6 +1,9 @@
 Practical info on MSc theses projects
 -------------------------------------
 
+- If you'd like to aim for a thesis grade above 8.0, keep in mind that in general 
+  you'll need to do publication-grade research. Discuss your ambitions with 
+  your supervisor from the very start.
 - Prepare a brief (1-2 pages) proposal outlining your research
   questions and methology within the first two weeks.
 - We'll have regular face-to-face meetings. If appropriate, in small
