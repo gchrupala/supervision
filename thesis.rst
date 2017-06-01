@@ -34,7 +34,7 @@ Thesis guidelines
   numbered as X.Y.Z 
 - Detailed descriptions of particular software implementations used
   for the research are typically not necessary. If given, they should
-  be in the section on the exprimental setup.  
+  be in the section on the experimental setup.  
 - The  main final results may be presented in the form of a table with
   precise numbers. Exploratory data analysis and intermediate results
   are often best reported in the form of charts and plots. 
