@@ -11,14 +11,12 @@ Practical info on MSc theses projects
 - Two working days before each meeting you should submit a report on
   your progress, or in the later stages, a section of your thesis
   which is ready for review (in PDF format).
-- You will get feedback for each chapter once, and another time for
-  the draft of the full thesis. Make sure you only send in work which
-  is reasonably complete and proofread.
-- Roughly half-way through you’ll prepare a full project proposal on
-  the basis of which your supervisor and second reader will decide
-  whether you may proceed with your thesis work (go-nogo).
+
 - Remember that the thesis is meant to be your own work. Specifically:
   
+    - There are no multiple rounds of detailed feedback. You will get high-
+      level feedback for the draft of the full thesis. 
+      Make sure you only send in work which is reasonably complete and proofread.
     - Be very careful about following rules about properly referencing
       and attributing material. Plagiarism is a serious offense.
     - If collaborating, indicate clearly which work was done by someone else.
@@ -27,11 +25,10 @@ Practical info on MSc theses projects
         - rewrite your text to fix quality problems
         - write, test or debugging code for your project
         - run statistical tests
-
-- Full draft of the thesis is due six weeks before planned graduation ceremony.
+        
 - Keep track of all the data and code needed to reproduce your
   results. Consider using version control software for this
-  purpose. Final version of the thesis document should contain
+  purpose (e.g. Github). Final version of the thesis document should contain
   instructions about obtaining the data and code needed to reproduce
   your work.
 
