@@ -8,9 +8,9 @@ Practical info on MSc theses projects
   questions and methology within the first two weeks.
 - We'll have regular face-to-face meetings. If appropriate, in small
   groups of students.
-- Two working days before each meeting you should submit a report on
-  your progress, or in the later stages, a section of your thesis
-  which is ready for review (in PDF format).
+- In order for a meeting to be scheduled, I need to first receive an email with a report of 
+  your progress to date, and a list of questions or problems to be discussed at 
+  the meeting. Use plain text or PDF for your reports.
 
 - Remember that the thesis is meant to be your own work. Specifically:
   
