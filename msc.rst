@@ -23,7 +23,7 @@ Practical info on MSc theses projects
     - You supervisor will be helping you, but is not supposed to:
 
         - rewrite your text to fix quality problems
-        - write, test or debugging code for your project
+        - write, test or debug code for your project
         - run statistical tests
         
 - Keep track of all the data and code needed to reproduce your
