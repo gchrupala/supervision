@@ -4,6 +4,9 @@ Practical info on MSc theses projects
 - If you'd like to aim for a thesis grade above 8.0, keep in mind that in general 
   you'll need to do publication-grade research. Discuss your ambitions with 
   from the very start.
+- If you're doing your thesis with an external partner, be aware that the thesis needs to be 
+  scientific in nature, and that this consideration may be in conflict with the partner's preferences. 
+  Make sure your host institution understands this also.
 - We'll have regular face-to-face meetings. If appropriate, in small
   groups of students.
 - In order for a meeting to be scheduled, I need to first receive an email with a report of 
