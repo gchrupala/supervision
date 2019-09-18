@@ -14,6 +14,7 @@ For this project you will need to find a concrete topic related to one or more o
 ## References:
 
 - Matthew D Zeiler & Rob Fergus (2014). Visualizing and understanding convolutional networks. In European Conference on Computer Vision (pp. 818-833). https://arxiv.org/pdf/1311.2901
+- Wojciech Samek, Thomas Wiegand & Klaus-Robert Müller (2017). Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models. ITU Journal: ICT Discoveries, Special Issue No. 1, 13. https://www.itu.int/dms_pub/itu-s/opb/journal/S-JOURNAL-ICTF.VOL1-2018-1-P05-PDF-E.pdf
 - Yonatan Belinkov, & James Glass (2018). Analysis Methods in Neural Language Processing: A Survey. arXiv preprint arXiv:1812.08951. https://arxiv.org/abs/1812.08951
 - Afra Alishahi, Grzegorz Chrupala, & Tal Linzen (2019). Analyzing and Interpreting Neural Networks for NLP: A Report on the First BlackboxNLP Workshop. Natural Language Engineering, 25(4), 543-557. http://dx.doi.org/10.1017/S135132491900024X, preprint: https://arxiv.org/abs/1904.04063 
 - Grzegorz Chrupała & Afra Alishahi (2019). Correlating neural and symbolic representations of language. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. https://www.aclweb.org/anthology/P19-1283/
