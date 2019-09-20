@@ -12,7 +12,7 @@ Machine learning in general and neural network models in particular are being us
 For this project you will need to find a concrete topic related to one or more of the points listed above, and explore it experimentally on datasets of your choice. Especially welcome are topics related to processing natural language or speech. 
 
 ## References:
-
+- Christoph Molnar (2019). Interpretable Machine Learning: A Guide for Making Black Box Models Explainable. https://christophm.github.io/interpretable-ml-book/
 - Matthew D Zeiler & Rob Fergus (2014). Visualizing and understanding convolutional networks. In European Conference on Computer Vision (pp. 818-833). https://arxiv.org/pdf/1311.2901
 - Wojciech Samek, Thomas Wiegand & Klaus-Robert Müller (2017). Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models. ITU Journal: ICT Discoveries, Special Issue No. 1, 13. https://www.itu.int/dms_pub/itu-s/opb/journal/S-JOURNAL-ICTF.VOL1-2018-1-P05-PDF-E.pdf
 - Yonatan Belinkov, & James Glass (2018). Analysis Methods in Neural Language Processing: A Survey. arXiv preprint arXiv:1812.08951. https://arxiv.org/abs/1812.08951
