@@ -2,7 +2,7 @@ Practical info on MSc theses projects
 -------------------------------------
 
 - It is your responsibility to familiarize yourself with the requirements of the thesis component of your degree. 
-  Specifically you need to keep track of all the deadlines yourself and sure you submit all deliverables on time. 
+  Specifically you need to keep track of all the deadlines yourself and make sure you submit all deliverables on time. 
 - The deadlines for submissions are not flexible. Please be ready to submit your thesis on time.
 - If you'd like to aim for a thesis grade above 8.0, keep in mind that in general you'll need to do publication-grade research. 
 - If you're doing your thesis with an external partner, be aware that the thesis needs to be 
