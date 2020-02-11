@@ -15,7 +15,6 @@ For this project you will need to find a concrete topic related to one or more o
 
 ### Surveys
 - Christoph Molnar (2019). Interpretable Machine Learning: A Guide for Making Black Box Models Explainable. https://christophm.github.io/interpretable-ml-book/
-- Matthew D Zeiler & Rob Fergus (2014). Visualizing and understanding convolutional networks. In European Conference on Computer Vision (pp. 818-833). https://arxiv.org/pdf/1311.2901
 - Wojciech Samek, Thomas Wiegand & Klaus-Robert Müller (2017). Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models. ITU Journal: ICT Discoveries, Special Issue No. 1, 13. https://www.itu.int/dms_pub/itu-s/opb/journal/S-JOURNAL-ICTF.VOL1-2018-1-P05-PDF-E.pdf
 - Belinkov, Y., & Glass, J. (2019). Analysis methods in neural language processing: A survey. Transactions of the Association for Computational Linguistics, 7, 49-72. https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00254
 - Afra Alishahi, Grzegorz Chrupala, & Tal Linzen (2019). Analyzing and Interpreting Neural Networks for NLP: A Report on the First BlackboxNLP Workshop. Natural Language Engineering, 25(4), 543-557. http://dx.doi.org/10.1017/S135132491900024X, preprint: https://arxiv.org/abs/1904.04063 
@@ -30,3 +29,4 @@ For this project you will need to find a concrete topic related to one or more o
 - Grzegorz Chrupała, Lieke Gelderloos and Afra Alishahi (2017). Representations of language in a model of visually grounded speech signal. ACL. https://aclanthology.info/papers/P17-1057/p17-1057
 - Ákos Kádár, Grzegorz Chrupała and Afra Alishahi (2017). Representation of linguistic form and function in recurrent neural networks. Computational Linguistics, 43(4):761-780. https://www.mitpressjournals.org/doi/abs/10.1162/COLI_a_00300
 - Linzen, T., Dupoux, E., & Goldberg, Y. (2016). Assessing the ability of LSTMs to learn syntax-sensitive dependencies. Transactions of the Association for Computational Linguistics, 4, 521-535. https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00115
+- Matthew D Zeiler & Rob Fergus (2014). Visualizing and understanding convolutional networks. In European Conference on Computer Vision (pp. 818-833). https://arxiv.org/pdf/1311.2901
