@@ -13,6 +13,10 @@ For this project you will need to find a concrete topic related to one or more o
 
 ## References:
 
+## Websites
+- BlackboxNLP workshop series: https://blackboxnlp.github.io/
+- Interpreting Deep Learning Models for Text and Sound: Methods & Applications. https://interpretingdl.github.io/
+
 ### Surveys
 - Christoph Molnar (2019). Interpretable Machine Learning: A Guide for Making Black Box Models Explainable. https://christophm.github.io/interpretable-ml-book/
 - Wojciech Samek, Thomas Wiegand & Klaus-Robert Müller (2017). Explainable Artificial Intelligence: Understanding, Visualizing and Interpreting Deep Learning Models. ITU Journal: ICT Discoveries, Special Issue No. 1, 13. https://www.itu.int/dms_pub/itu-s/opb/journal/S-JOURNAL-ICTF.VOL1-2018-1-P05-PDF-E.pdf
@@ -29,4 +33,5 @@ For this project you will need to find a concrete topic related to one or more o
 - Chrupała, G., Gelderloos, L., & Alishahi, A. (2017, July). Representations of language in a model of visually grounded speech signal. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 613-622). https://www.aclweb.org/anthology/P17-1057.pdf
 - Ákos Kádár, Grzegorz Chrupała and Afra Alishahi (2017). Representation of linguistic form and function in recurrent neural networks. Computational Linguistics, 43(4):761-780. https://www.mitpressjournals.org/doi/abs/10.1162/COLI_a_00300
 - Linzen, T., Dupoux, E., & Goldberg, Y. (2016). Assessing the ability of LSTMs to learn syntax-sensitive dependencies. Transactions of the Association for Computational Linguistics, 4, 521-535. https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00115
+Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). Model-agnostic interpretability of machine learning. arXiv preprint arXiv:1606.05386. https://arxiv.org/abs/1606.05386
 - Matthew D Zeiler & Rob Fergus (2014). Visualizing and understanding convolutional networks. In European Conference on Computer Vision (pp. 818-833). https://arxiv.org/pdf/1311.2901
