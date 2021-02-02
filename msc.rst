@@ -6,7 +6,7 @@ Practical info on MSc theses projects
 - If you'd like to aim for a thesis grade above 8.0, keep in mind that in general you'll need to do publication-grade research. 
 - If you're doing your thesis with an external partner, be aware that the thesis needs to be 
   scientific in nature, and that this consideration may be in conflict with the partner's preferences. 
-  Make sure your host institution understands this also. 
+  Make sure your host institution understands this also. Also be aware that university staff will not sign non-disclosure agreements. You need to make sure that you are allowed to provide all necessary information to your supervisor.
 - We'll have regular face-to-face group meetings. You'll get the most from them if you come prepared. In general, there will be no individual meetings.
 - Remember that the thesis is meant to be your own work. You will get some guidance but no detailed instructions about what to do. Specifically, there are no multiple rounds of detailed written feedback. You will get high-level oral feedback based on your questions and comments during group meetings. Make sure to take notes.
 - Be very careful about following rules about properly referencing and attributing material. Plagiarism is a serious offense.
