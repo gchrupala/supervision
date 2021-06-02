@@ -5,7 +5,7 @@
 - Make sure to use English number formatting: decimal POINT, and comma as thousand separator (i.e. 1.2 and 10,000)
 - Formulas:
   * Whenever you include a formula, explain the meaning of the symbols used. 
-  * Do not include formaulas you do not understand yourself. 
+  * Do not include formulas you do not understand yourself. 
   * Do not include formulas unless they are important to understanding some part of your work.
 - Detailed descriptions of particular software implementations used
   for the research are typically not necessary. If given, they should
