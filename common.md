@@ -1,6 +1,6 @@
 # Common issues with theses and papers
 
-- *Machine learning* is a generic term which includes *deep learning*. Do not make a use *machine learning* to mean "learning methods except neural networks". 
+- *Machine learning* is a generic term which includes *deep learning*. Do not make use *machine learning* to mean "learning methods except neural networks". 
 - Avoid vague terms like *traditional ML* or *traditional NLP*. Just name the specific method you are referring to.
 - Make sure to use English number formatting: decimal POINT, and comma as thousand separator (i.e. 1.2 and 10,000)
 - Formulas:
