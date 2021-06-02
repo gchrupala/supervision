@@ -6,7 +6,7 @@
 - Formulas:
   * Whenever you include a formula, explain the meaning of the symbols used. 
   * Do not include formaulas you do not understand yourself. 
-  * Do no include formulas unless they are important to understanding some part of your work.
+  * Do not include formulas unless they are important to understanding some part of your work.
 - Detailed descriptions of particular software implementations used
   for the research are typically not necessary. If given, they should
   be in the section on the experimental setup.  
