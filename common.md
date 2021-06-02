@@ -19,3 +19,5 @@
   appendices or supplementary material. 
 - Informal phrasings such as "in her paper, X argues that..." should be replaced
   with standard references: "X (2020) argues that..."
+- Credit all images to their author. In general, it is not advisable use figures or other images without an explicit license (e.g. Creative Commons) or an explicit 
+  permission from the author of the original. 
