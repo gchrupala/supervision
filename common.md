@@ -7,6 +7,8 @@
   * Whenever you include a formula, explain the meaning of the symbols used. 
   * Do not include formulas you do not understand yourself. 
   * Do not include formulas unless they are important to understanding some part of your work.
+- It is not necessary or desirable to provide in-depth descriptions of standard learning architectures (e.g. LSTM), unless the thesis makes
+  some modification to them, or the details are otherwise relevant to understanding some aspect of the thesis.
 - Detailed descriptions of particular software implementations used
   for the research are typically not necessary. If given, they should
   be in the section on the experimental setup.  
