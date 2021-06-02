@@ -15,3 +15,5 @@
   are often best reported in the form of charts and plots. 
 - Any tables with data longer than about 10-15 rows should be put in
   appendices or supplementary material. 
+- Informal phrasings such as "in her paper, X argues that..." should be replaced
+  with standard references: "X (2020) argues that..."
