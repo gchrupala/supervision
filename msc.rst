@@ -2,7 +2,11 @@ Practical info on MSc theses projects
 -------------------------------------
 
 
-- Topics: in general you can work on any topic I'm qualified to supervise, but you will get the most of my feedback if it's something I work on myself. Check my website: https://grzegorz.chrupala.me for my research interests. If your topic is to try to predict stock / commodity / cryptocurrency prices or similar from easily available information (such as Twitter sentiment), you will have to work very hard to convince me that this make sense, so please reconsider.
+- Topics: in general you can work on any topic I'm qualified to supervise, but you will get the most of my feedback if it's something I work on myself. Check my website: https://grzegorz.chrupala.me for my research interests. 
+
+   * If your topic is to try to predict stock / commodity / cryptocurrency prices or similar from easily available information (such as Twitter sentiment), you will have to work very hard to convince me that this make sense, so please reconsider.
+
+- Keep in mind that it will be hard to write a good thesis if your main dataset is tabular and small in size in terms of rows and/or feature. In general, Data Science methods are most applicable and you have the most chance to demonstrate DS expertise when working with multiple, large scale, unstructured or semi-structured data.
 
 - It is your responsibility to familiarize yourself with the requirements of the thesis component of your degree. 
   You need to keep track of all the deadlines yourself and make sure you submit all deliverables on time. 
