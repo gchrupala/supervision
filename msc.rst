@@ -6,7 +6,7 @@ Practical info on MSc theses projects
 
    * If your topic is to predict cryptocurrency / stock / commodity prices  or similar from easily available information (such as Twitter sentiment), you will have to work very hard to convince me that this makes sense, so please reconsider.
 
-- Keep in mind that it will be hard to write a good thesis if your main dataset is tabular and small in size in terms of rows and/or features. In general, Data Science methods are most applicable and you have the most chance to demonstrate DS expertise when working with multiple, large scale, unstructured or semi-structured data.
+- Keep in mind that it will be hard to write a good thesis if your main dataset is tabular and small in size in terms of rows and/or features. In general, Data Science methods are most applicable and you have the most chance to demonstrate DS expertise when working with multiple, large scale, unstructured or semi-structured datasets.
 
 - One of the most important considerations when chosing and preparing data for your project it that it should enable you to carry out quantitative evaluation. Specifically, you need to obtain or create prepare enough high quality, reliably labeled data to use as a test set. 
 
