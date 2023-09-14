@@ -1,4 +1,4 @@
-# Common issues with theses and papers
+## Common issues with theses and papers
 
 - *Machine learning* is a generic term which includes *deep learning*. Do not make use *machine learning* to mean "learning methods except neural networks". 
 - Avoid vague terms like *traditional ML* or *traditional NLP*. Just name the specific method you are referring to.
@@ -22,3 +22,9 @@
 - Credit all images to their author. In general, it is not advisable use figures or other images without an explicit license (e.g. Creative Commons) or an explicit 
   permission from the author of the original. 
 - **Never submit any draft or version containing unacknowledged quotes, paraphrases, or figures.**
+## Tips for formulating research questions for a data-science thesis
+- Come up with a small set (1-3) of closely related RQs.
+- They should be specific and directly linked to actual experiments which will provide an answer to them.
+- They should be formulated as actual questions. Typical templates could be:
+  + To what extend does method X improve on method Y for task A, on datasets D1, D2, D3.
+  + Which are the most features (out of A, B, C, ...) for classification task X on datasets ...
