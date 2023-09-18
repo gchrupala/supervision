@@ -19,7 +19,7 @@
   appendices or supplementary material. 
 - Informal phrasings such as "in her paper, X argues that..." should be replaced
   with standard references: "X (2020) argues that..."
-- Credit all images to their author. In general, it is not advisable use figures or other images without an explicit license (e.g. Creative Commons) or an explicit 
+- Credit all images to their author. In general, do not use figures or other images without an explicit license (e.g. Creative Commons) or an explicit 
   permission from the author of the original. 
 - **Never submit any draft or version containing unacknowledged quotes, paraphrases, or figures.**
 ## Tips for formulating research questions for a data-science thesis
