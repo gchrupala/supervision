@@ -27,4 +27,6 @@
 - They should be specific and directly linked to actual experiments which will provide an answer to them.
 - They should be formulated as actual questions. Typical templates could be:
   + To what extend does method X improve on method Y for task A, on datasets D1, D2, D3.
-  + Which are the most features (out of A, B, C, ...) for classification task X on datasets ...
+  + Which are the most important features (out of A, B, C, ...) for classification task X on datasets ...
+- Bad research questions are often too vague, and tend to follow the pattern: "How can we do task X on data Y?"
+ 
