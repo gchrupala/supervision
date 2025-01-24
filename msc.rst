@@ -20,7 +20,7 @@ Practical info on MSc theses projects
 - We'll have regular group meetings. You'll get the most from them if you come prepared. There will be no individual meetings.
 - Remember that the thesis is meant to be your own work. You will get some guidance but no detailed instructions about what to do. Specifically, there are no multiple rounds of detailed written feedback. You will get high-level oral feedback based on your questions and comments during group meetings. Make sure to take notes.
 - Be very careful about following rules about properly referencing and attributing material. Plagiarism is a serious offense.
-- If collaborating with another student or an external party, indicate clearly which work was done by someone else.      
+- If collaborating with an external party, indicate clearly which work was done by someone else.      
 - Keep track of all the data and code needed to reproduce your
   results. Consider using version control software for this
   purpose (e.g. Github). Final version of the thesis document should contain
